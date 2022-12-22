@@ -1,0 +1,3 @@
+chmod 775 asp-auditor.pl
+ln -vs /pentest/02/asp-auditor/asp-auditor.pl /usr/bin/asp-auditor.pl
+ln -vs /pentest/02/asp-auditor/asp-auditor.pl /usr/bin/asp-auditor
