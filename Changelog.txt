@@ -1,0 +1,17 @@
+# Changelog:
+# --v2.2-- 20/Apr/07
+# * Added additional support for Anti-XSS Validation detection.
+# * Added ASP Source Directory Leak Check
+# * Added Apr/07 ASP.NET XSS Detection
+#
+# --v2.1-- 25/Sep/06
+# * GET /Trace.axd often leaks ASP.NET version when other methods fail.
+# * Fixed "?" bug in JavaScript Validate test
+# * Added Version into usage()
+#
+# --v2.0-- 16/Sep/06
+# * Version plugin allowing specific ASP.NET versioning.
+# * Version brute force capabilities using JavaScript validate
+# directories.
+# * Check if global ASP.NET validate is being used.
+# * Added brute force function and option in usage()  
